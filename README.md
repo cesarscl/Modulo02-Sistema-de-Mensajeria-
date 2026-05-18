@@ -2,6 +2,11 @@
 
 Proyecto estático desarrollado por Cesar Ormeño como práctica de maquetación con **HTML** y **CSS**, enfocado en el uso de **Flexbox** para construir una interfaz tipo sistema de mensajería.
 
+## Acceso
+
+https://cesarscl.github.io/
+
+
 ## Descripción
 
 La página muestra una aplicación de mensajería con dos áreas principales:
